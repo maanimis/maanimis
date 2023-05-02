@@ -3,7 +3,7 @@
 ![Header](./header.png)
 
 <h1 align="center">Stats</h1>
-<a href="https://github.com/Hazza3100"></a>
+<a href="https://github.com/maanimis"></a>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maanimis&theme=midnight-purple&show_icons=true" />
 </p>
