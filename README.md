@@ -13,7 +13,7 @@
  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/BTC_USDT" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png?20220331104809" alt="cryptoguy55" height="30" width="30" /></a>
+<a href="https://t.me/maanimis" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png?20220331104809" alt="cryptoguy55" height="30" width="30" /></a>
 <a href="mailto:maani.meisam@gmail.com" target="blank"><img align="center" src="https://pngroyale.com/wp-content/uploads/2021/11/Download-gmail-email-logo-png-1-1-768x555.png" alt="maanimis" height="30" width="40" /></a>
 </p>
 
