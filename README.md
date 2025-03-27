@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maanimis&label=views&color=0e75b6&style=flat&" alt="maanimis" /> </p>
 
-![Header](./header.png)
+<!-- ![Header](./header.png) -->
 
 <h1 align="center">Stats</h1>
 <a href="https://github.com/maanimis"></a>
@@ -14,12 +14,12 @@
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/maanimis" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png?20220331104809" alt="cryptoguy55" height="30" width="30" /></a>
-<a href="mailto:maani.meisam@gmail.com" target="blank"><img align="center" src="https://pngroyale.com/wp-content/uploads/2021/11/Download-gmail-email-logo-png-1-1-768x555.png" alt="maanimis" height="30" width="40" /></a>
+<a href="mailto:maanimis.dev@gmail.com" target="blank"><img align="center" src="https://pngroyale.com/wp-content/uploads/2021/11/Download-gmail-email-logo-png-1-1-768x555.png" alt="maanimis" height="30" width="40" /></a>
 </p>
 
 
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
@@ -45,7 +45,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
+ -->
 
 
-
-![Footer](./footer.png)
+<!-- ![Footer](./footer.png) -->
